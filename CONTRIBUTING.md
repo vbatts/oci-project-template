@@ -15,6 +15,31 @@ to do everything for everybody. This means that we might decide against
 incorporating a new feature.
 
 
+### Clear Communications
+
+To ensure that communications happen smoothly, openly and free from suspicion
+of malice, particular behaviors of involvement can be distracting.
+
+Taking from the [section on interference with organizations](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf),
+the following points are *NOT* beneficial to making progress.
+
+> 1. Insist on doing everything through "channels."
+>    Never permit short-cuts to be taken in order to expedite decision.
+> 2. Make "speeches."
+>    Talk as frequently as possible and at great length.
+>    Illustrate you "points" by long anecdotes and accounts of personal experiences.
+>    Never hestitate to make a few appropriate "patriotic" comments.
+> 3. When possible, refer all matters to committees, for "furth study and consideration."
+>    Attempt to make the committees as large as possible -- never less than five.
+> 4. Bring up irrelevant issues as frequently as possible.
+> 5. Haggle over precise wordings of communications, minutes and resolutions.
+> 6. Refer back to matters decided upon at the last meeting and attempt to re-open the question of the advisability of that decision.
+> 7. Advocate "caution."
+>    Be "reasonable" and urge your fellow-conferees to be "reasonable" and avoid haste which might result in embarrassments or difficulties later on.
+> 8. Be worried about the propriety of any decision -- raise the question of whether such action as is contemplated lies within the jurisdiction of the group or whether it might conflict with the policy of some higher echelon.
+
+While these items are vague, the direct counter to such interference is largely to keep communications on topic, clear, and objective.
+
 ### Conventions
 
 Fork the repo and make changes on your fork in a feature branch:
